@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: o;
+}
+body{
+    background-color: #ffff;
+
+}
+h1{
+    margin-bottom: 60px;
+    text-align: center;
+    color: #000000;
+}
+h2{
+    margin-bottom: 30px;
+    text-align: center;
+    color: #808080;
+}
+p{
+    margin-bottom: 20px;
+    text-align: center;
+}
